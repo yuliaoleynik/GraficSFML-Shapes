@@ -1,0 +1,8 @@
+test.txt
+release/
+debug/
+test.pro
+.qmake.stash
+Makefile
+Makefile.Debug
+Makefile.Release
